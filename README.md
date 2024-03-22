@@ -1,6 +1,9 @@
 # Images of Project
 
-![alt text](Screenshot 2024-03-22 171705.png?raw=true)
+![alt text](https://github.com/shreyansh-solanki/RNTicTacToe/blob/master/src/images/Screenshot%202024-03-22%20171705.png)
+![alt text](https://github.com/shreyansh-solanki/RNTicTacToe/blob/master/src/images/Screenshot%202024-03-22%20171732.png)
+![alt text](https://github.com/shreyansh-solanki/RNTicTacToe/blob/master/src/images/Screenshot%202024-03-22%20171748.png)
+![alt text](https://github.com/shreyansh-solanki/RNTicTacToe/blob/master/src/images/Screenshot%202024-03-22%20171948.png)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
